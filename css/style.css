@@ -1,0 +1,17 @@
+html{
+    width: 1080px;
+}
+
+header{
+    height: 100px;;
+    background-color: #4da1ff;
+    background-image: url(../img/pattern.png);
+    background-size: 37%;
+    background-repeat: repeat;
+    background-position-x: 215%;
+}
+
+.logo{
+   height: 45%;
+    margin-top: 50px;
+}
