@@ -9,6 +9,7 @@ header{
     background-size: 37%;
     background-repeat: repeat;
     background-position-x: 215%;
+
 }
 
 .logo{
@@ -66,3 +67,26 @@ th{
 .lightblue{
     background-color: #b2e6f2;
 }
+
+.maylike{
+    padding-top: 5px;
+    padding-left: 8px;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 156px;
+    width: 234px;
+}
+
+.maylike1{
+    background-image: url(../img/monitor.jpg);
+    background-size: 90%;
+    background-repeat: no-repeat;
+}
+
+.maylike2{
+    background-image: url(../img/graph.jpg);
+    background-size: 90%;
+    background-repeat: no-repeat;
+
+   }
