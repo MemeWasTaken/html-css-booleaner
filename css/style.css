@@ -43,3 +43,26 @@ figure{
 ul{
     padding-left: 20px;
 }
+
+table{
+    border-collapse: collapse;
+    width: 1060px;
+}
+
+thead{
+    background-color: #1aaae6;
+}
+
+th{
+    border: 0px;
+    text-align: left;
+    color: white;
+}
+
+.widthcell{
+    width: 25%;
+}
+
+.lightblue{
+    background-color: #b2e6f2;
+}
