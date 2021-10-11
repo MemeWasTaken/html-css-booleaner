@@ -12,6 +12,21 @@ header{
 }
 
 .logo{
-   height: 45%;
+    height: 45%;
     margin-top: 50px;
+}
+
+h1{
+    margin-bottom: 0px;
+}
+
+.credits{
+    margin-top: 0px;
+    color: #818181;
+    font-weight: 700;
+}
+
+.user{
+    color: #1aaae6;
+    text-decoration: none;
 }
