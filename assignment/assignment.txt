@@ -1,2 +1,6 @@
-Exercise: 
-repository: 
+Exercise: The Booleaner
+repository: html-css-booleaner
+
+Riproducete il il layout in allegato utilizzando l’approccio visto in classe.
+Bonus
+Partendo dallo stesso HTML, create un secondo file CSS per crearne una versione diversa.
