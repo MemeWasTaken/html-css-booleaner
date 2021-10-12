@@ -7,7 +7,7 @@ html{
 } */
 
 header{
-    height: 100px;;
+    height: 100px;
     background-color: #4da1ff;
     background-image: url(../img/pattern.png);
     background-size: 37%;
@@ -41,6 +41,10 @@ figure{
     margin: 0px;
 }
 
+figcaption{
+    font-size: 0.7em;
+}
+
 .highlightd{
     background-color: yellow;
 }
@@ -59,7 +63,6 @@ thead{
 }
 
 th{
-    border: 0px;
     text-align: left;
     color: white;
 }
@@ -80,17 +83,17 @@ th{
     margin-bottom: 0px;
     height: 156px;
     width: 234px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
 .maylike1{
     background-image: url(../img/monitor.jpg);
     background-size: 90%;
-    background-repeat: no-repeat;
 }
 
 .maylike2{
     background-image: url(../img/graph.jpg);
     background-size: 90%;
-    background-repeat: no-repeat;
-
    }
