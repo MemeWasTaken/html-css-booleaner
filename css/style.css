@@ -37,12 +37,19 @@ h1{
     text-decoration: none;
 }
 
-figure{
+.figures{
     margin: 0px;
 }
 
-figcaption{
+.caption-top{
+    margin-bottom: 0;
+}
+
+
+.caption{
     font-size: 0.7em;
+    line-height: 0.8em;
+    margin-top: 5px;
 }
 
 .highlightd{
